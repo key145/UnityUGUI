@@ -31,8 +31,3 @@
 2. 使用 Unity 打开项目（建议版本 2020.3 及以上）。
 3. 打开场景 LoginScene。
 4. 运行场景即可体验登录注册流程。
-
-## 📸 项目截图
-![登录界面](https://github.com/user-attachments/assets/e551b102-d8f4-4bf6-bf3e-044d8228ca4b)
-
-![注册界面](https://github.com/user-attachments/assets/a767a425-210e-41c8-93b2-8c77858aabca)
